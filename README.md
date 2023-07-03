@@ -2,8 +2,9 @@ Hi 👋 My name is alshkre9
 =========================
 Back-End Developer
 --------------------
-self-taught programmer
+
 * 🧠  I'm learning PHP and Functional Programming with SML
+*   ✉️  You can contact me at [polyex9@gmail.com](mailto:polyex9@gmail.com)
 
 ### Skills
 
