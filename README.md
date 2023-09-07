@@ -3,7 +3,7 @@
 </div>
 
 <div align=center>
-    <img src="https://komarev.com/ghpvc/?username=alshkre9&color=green">
+    <img src="https://komarev.com/ghpvc/?username=alshkre9&color=blueviolet">
 </div>
 <hr>
 
