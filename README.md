@@ -1,8 +1,9 @@
 <div align=center>
 <a href="https://discord.com/users/alshkre9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="64" height="64" /></a>
 </div>
+
 <div align=center>
-    ![](https://komarev.com/ghpvc/?username=alshkre9)
+    <img src="https://komarev.com/ghpvc/?username=alshkre9&color=green">
 </div>
 <hr>
 
